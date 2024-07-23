@@ -1,3 +1,3 @@
 # newrep
-learning to use git
+learning to use git.
 first commit.
